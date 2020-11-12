@@ -1,21 +1,52 @@
-# ACTIVE RECORD
+# Micro- Reddit (Building with Active Record)
+Project based on associations between different Rails models
 
-Things you may want to cover:
+# What it Does
+Creat associations between different models in RoR
 
-- Ruby version
+# Built With
+- Ruby
+- Ruby on Rails
+- VSCode
 
-- System dependencies
+# Prerequisites
+- Get your browser up to date
+- Ruby
+- Ruby on Rails
 
-- Configuration
+# Install
+- Git clone this repo and cd the to the  directory.
+- Run bundle install in command line
+- Play in the console with different associations between Users, Posts and Comments
 
-- Database creation
 
-- Database initialization
+## Authors
 
-- How to run the test suite
+👤 **Rick Oroburu **
 
-- Services (job queues, cache servers, search engines, etc.)
+- Github: [@Rickoriburu](https://github.com/RickOroburu)
 
-- Deployment instructions
+👤 **Daniel Duran**
 
-- ...
+- Github: [@jDaniduran-dev](https://github.com/Daniduran-dev)
+
+# 🤝 Contributing
+Contributions, issues and feature requests are welcome! Start by:
+
+- Forking the project.
+- Cloning the project to your local machine.
+- cd into the project directory.
+- Run git checkout -b your-branch-name.
+- Make your contributions.
+- Push your branch up to your forked repository.
+- Open a Pull Request with a detailed description to the development branch of the original project for a review.
+
+# Attributions and Credit 🚀
+
+- Microverse
+- The Odin Project
+
+# Show your support
+Give a ⭐️ if you like this project!
+
+📝 License
