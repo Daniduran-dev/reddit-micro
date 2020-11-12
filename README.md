@@ -1,24 +1,58 @@
-# README
+# Micro- Reddit (Building with Active Record)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project based on associations between different Rails models
 
-Things you may want to cover:
+# What it Does
 
-- Ruby version
+Creat associations between different models in RoR
 
-- System dependencies
+# Built With
 
-- Configuration
+- Ruby
+- Ruby on Rails
+- VSCode
 
-- Database creation
+# Prerequisites
 
-- Database initialization
+- Get your browser up to date
+- Ruby
+- Ruby on Rails
 
-- How to run the test suite
+# Install
 
-- Services (job queues, cache servers, search engines, etc.)
+- Git clone this repo and cd the to the directory.
+- Run bundle install in command line
+- Play in the console with different associations between Users, Posts and Comments
 
-- Deployment instructions
+## Authors
 
-- ...
+👤 **Rick Oroburu **
+
+- Github: [@Rickcoyl](https://github.com/RickOroburu)
+
+👤 **Daniel Duran**
+
+- Github: [@jDaniduran-dev](https://github.com/Daniduran-dev)
+
+# 🤝 Contributing
+
+Contributions, issues and feature requests are welcome! Start by:
+
+- Forking the project.
+- Cloning the project to your local machine.
+- cd into the project directory.
+- Run git checkout -b your-branch-name.
+- Make your contributions.
+- Push your branch up to your forked repository.
+- Open a Pull Request with a detailed description to the development branch of the original project for a review.
+
+# Attributions and Credit 🚀
+
+- Microverse
+- The Odin Project
+
+# Show your support
+
+Give a ⭐️ if you like this project!
+
+📝 License
