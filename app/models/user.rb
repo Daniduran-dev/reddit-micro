@@ -3,7 +3,7 @@ class User < ApplicationRecord
 
   validates :name, uniqueness: true
 
-  has_many :post
+  has_many :posts
 
-  has_many :comment
+  has_many :comments
 end
